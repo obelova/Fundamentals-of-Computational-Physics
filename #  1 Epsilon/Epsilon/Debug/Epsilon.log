@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\User\Desktop\prog\trash\Epsilon\Epsilon\main.cpp(15,28): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\prog\trash\Epsilon\Epsilon\main.cpp(15,61): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Desktop\prog\trash\Epsilon\Epsilon\main.cpp(16,67): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  Epsilon.vcxproj -> C:\Users\User\Desktop\prog\trash\Epsilon\Debug\Epsilon.exe
